@@ -2,7 +2,7 @@
 
 A simple, console-based application designed to simulate the core operations of a library management system. Users can **add, update, remove, borrow, and return books**, all uniquely identified by their ID.
 
-This project is written using **fundamental C++ concepts only** — without OOP or advanced data structures. 
+This project is written using **fundamental C++ concepts**. 
 ---
 
 ## ✨ Features
